@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/StockPick'18/v15/.suo
+/.vs/StockPick'18/v15/Server/sqlite3/storage.ide
+/.vs/StockPick'18/v15/Server/sqlite3/storage.ide-shm
+/.vs/StockPick'18/v15/Server/sqlite3/storage.ide-wal
+/.vs/StockPick2018/v15/.suo
+/Stock2018/obj/Debug/netcoreapp2.1/StockPick'18.AssemblyInfoInputs.cache
+/Stock2018/obj/Debug/netcoreapp2.1/StockPick'18.assets.cache
+/Stock2018/obj/Debug/netcoreapp2.1/StockPick'18.csprojAssemblyReference.cache
+/Stock2018/obj/Debug/netcoreapp2.1/StockPick'18.csproj.CoreCompileInputs.cache
+/Stock2018/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+/Stock2018/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+/Stock2018/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+/Stock2018/obj/project.assets.json
+/Stock2018/obj/StockPick'18.csproj.nuget.cache
+/Stock2018/obj/StockPick'18.csproj.nuget.g.props
+/Stock2018/obj/StockPick'18.csproj.nuget.g.targets
+/Stock2018/obj/Debug/netcoreapp2.1/StockPick'18.AssemblyInfo.cs
